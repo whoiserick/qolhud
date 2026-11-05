@@ -1,5 +1,9 @@
 # qolhud
 
+![gs theme](Screenshot_117.png)
+![minimal theme](Screenshot_118.png)
+![simple theme](Screenshot_119.png)
+
 you need three values: client id, client secret and refresh token. it takes about five minutes and you only do it once.
 
 ## what you need
